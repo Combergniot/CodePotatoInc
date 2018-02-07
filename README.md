@@ -24,6 +24,4 @@ webmodels is an app for scraping and displaying product data from web pages.
 * Persistence of certain data 
 * Amazon S3 integration
 
-### Who do I talk to? ###
 
-* marcin.wernerowicz@gmail.com
