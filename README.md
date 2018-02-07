@@ -26,4 +26,4 @@ webmodels is an app for scraping and displaying product data from web pages.
 
 ### Who do I talk to? ###
 
-* anna.kozlowska@conceptweb.com.pl
+* marcin.wernerowicz@gmail.com
