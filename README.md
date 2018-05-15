@@ -8,7 +8,7 @@ webmodels is an app for scraping and displaying product data from web pages.
 ### Repository for webmodels app ###
 
 * Quick summary
-* version 1.3
+* version 1.3 (early version)
 
 
 ### How do I get set up? ###
